@@ -155,11 +155,7 @@ The frontend communicates with the backend via API endpoints or through the MCP 
 * **Direct API**: Ensure the `API_BASE_URL` in `frontend/.env` points to your running backend (e.g., `http://localhost:8000`).
 * **Agentic**: The frontend sends natural language prompts to Gemini, which then calls the MCP tools running in your backend to fetch data, returning the result to the UI.
 
----
 
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
