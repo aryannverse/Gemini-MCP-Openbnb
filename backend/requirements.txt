@@ -1,0 +1,7 @@
+langgraph
+langgraph-cli
+langchain-google-genai
+langchain-mcp-adapters
+mcp
+python-dotenv
+uvicorn
